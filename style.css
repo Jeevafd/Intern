@@ -1,0 +1,56 @@
+body{
+    background-image:url("/Downloads/arthi.jpg");
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.regform{
+width: 500px;
+margin:250px auto;
+padding:10px 20px 30px;
+background-color: rgba(0,0,0,.5,);
+ color:white;
+ font-size:30px;
+ border-radius:10px;
+}
+.reg form h2{
+    text-align:center;
+    color:81b29a;
+}
+.regform.textlabel{
+    display:block;
+}
+.input input{
+    width:100px;
+    font: size 1.5em;
+    border:1px solid81b29a;
+    box-shadow:2px;
+    border-radius: 8px;
+    padding:10px 10px;
+    box-sizing:border-box;
+    margin:5px 0px 15px
+}
+input:focus{
+    background-color:aliceblue
+}
+.button{
+    text-align:center;
+}
+button{
+    background-color: aliceblue;
+    font-size:30px;
+    color:#000000;
+    margin-top:20px;
+    padding:15px 25px;
+    border-radius:8px;
+    border:1px solidcolor81b29a;
+    box-shadow:2px;
+}
+
+.radio input{
+    accent-color:blacks;
+    transform:scale(1.5);
+     -ms-transform: scale(1.5);
+-webkit-transform:scale(1.5);
+}
+
+
+
