@@ -1,0 +1,155 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    position: relative;
+    left: 20px;
+    width: 70%;
+
+}
+.navbar-brand{
+    margin-right: 20%;
+
+}
+.nav-link{
+    margin:10px;
+}
+.logo{
+    margin-right: 20px;
+}
+#nav-bar{
+    height: auto;
+    width: 100%;
+    background-image: linear-gradient(180deg,red,yellow);
+}
+
+.carousal-indicators.active{
+    background-color: #f00;
+}
+.carousal-control-prev-icon{
+    background-color: #f00;
+}
+.carousel-control-next-icon { 
+    background-color: #f00; 
+} 
+ 
+/carousel/ 
+ 
+#about svg{ 
+    height:30px; 
+    width:30px; 
+} 
+#about-2 h1,h3{ 
+  display: inline-block; 
+} 
+#about-2{ 
+    display: flex; 
+} 
+ 
+.software{ 
+    float:left; 
+    width:40%; 
+    margin-left: 5%; 
+} 
+ 
+ 
+ 
+#features svg{ 
+     height:60px; 
+     width:60px; 
+     margin:10px; 
+} 
+#section{ 
+    background-color: #EEEEEE70; 
+ 
+} 
+#about{ 
+    background-color: #EEEEEE70; 
+} 
+#features{ 
+    background-color: #EEEEEE70; 
+} 
+#pricing{ 
+    background-color: #EEEEEE70; 
+} 
+
+ 
+.customers{ 
+    border-radius: 50%; 
+} 
+ 
+ 
+
+ 
+#pricing{ 
+    margin:20px; 
+} 
+ 
+.card-img-top{ 
+    height:50%; 
+    width:50%; 
+    margin-left: 20%; 
+    margin-top: 10px; 
+} 
+.card { 
+    opacity: 1; 
+    transition: opacity 0.3s ease; 
+    margin-right: 20px; 
+  } 
+  .price{ 
+    position: relative; 
+    left:30px; 
+  } 
+  .card:hover { 
+    opacity: 0.7; 
+  } 
+ 
+ 
+  #testimonial{ 
+    margin:30px; 
+  } 
+   
+ 
+  #contact{ 
+    padding:20px; 
+    margin:20px; 
+    margin-top:40px; 
+    position: relative; 
+  } 
+ 
+  footer{ 
+    margin:20px; 
+  } 
+ 
+  .next{ 
+ 
+    position: relative; 
+    margin-top:40px; 
+    display: none; 
+  } 
+  .next2{ 
+ 
+    position: relative; 
+    margin-top:40px; 
+  } 
+ 
+   
+ 
+  .main-container{ 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    margin-top: 50px; 
+  } 
+ 
+  .contact{ 
+ 
+ 
+      margin-bottom: 20px; 
+      padding:20px; 
+      background-color: #EEEEEE70; 
+  } 
+  .image{ 
+    margin:20px; 
+  }
